@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:cards_calculator/constants.dart';
-import 'package:cards_calculator/screens/card_product/card_choosed.dart';
+import 'package:cards_calculator/screens/gsdfgfds/card_choosed.dart';
 import 'package:cards_calculator/utils/extensions.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';

@@ -1,7 +1,7 @@
 import 'package:cards_calculator/custom_theme.dart';
 import 'package:cards_calculator/data/models/income.dart';
-import 'package:cards_calculator/screens/add_income_screen/widgets/add_income_button.dart';
-import 'package:cards_calculator/screens/add_income_screen/widgets/add_income_text_field.dart';
+import 'package:cards_calculator/screens/fdasdas/widgets/add_income_button.dart';
+import 'package:cards_calculator/screens/fdasdas/widgets/add_income_text_field.dart';
 import 'package:cards_calculator/utils/extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

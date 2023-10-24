@@ -1,4 +1,4 @@
-import 'package:cards_calculator/screens/main_screen/main_screen.dart';
+import 'package:cards_calculator/screens/gsdfcsdasd/main_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

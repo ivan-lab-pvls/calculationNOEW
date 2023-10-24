@@ -2,8 +2,8 @@ import 'package:cards_calculator/custom_theme.dart';
 import 'package:cards_calculator/data/incomes_change_notifier.dart';
 import 'package:cards_calculator/data/models/income.dart';
 import 'package:cards_calculator/routes.dart';
-import 'package:cards_calculator/screens/incomes_screen/widgets/income_options_bottom_sheet.dart';
-import 'package:cards_calculator/screens/incomes_screen/widgets/widgets.dart';
+import 'package:cards_calculator/screens/fdasfcas/widgets/income_options_bottom_sheet.dart';
+import 'package:cards_calculator/screens/fdasfcas/widgets/widgets.dart';
 import 'package:cards_calculator/utils/extensions.dart';
 
 import 'package:flutter/material.dart';

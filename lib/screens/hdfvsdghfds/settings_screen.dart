@@ -39,7 +39,7 @@ class SettingsScreen extends StatelessWidget {
               iconPath: 'assets/heart.png',
               title: 'Оцените наше приложений в AppStore',
               onTap: () => InAppReview.instance
-                        .openStoreListing(appStoreId: '6469605158'),
+                        .openStoreListing(appStoreId: '6470311429'),
             ),
           ],
         ),

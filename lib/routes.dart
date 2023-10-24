@@ -1,14 +1,14 @@
 import 'package:cards_calculator/data/models/income.dart';
 import 'package:cards_calculator/data/models/new.dart';
-import 'package:cards_calculator/screens/home_page/home_page.dart';
-import 'package:cards_calculator/screens/add_income_screen/add_income_screen.dart';
-import 'package:cards_calculator/screens/incomes_screen/incomes_screen.dart';
-import 'package:cards_calculator/screens/initial_screen/initial_screen.dart';
-import 'package:cards_calculator/screens/main_screen/main_screen.dart';
-import 'package:cards_calculator/screens/news_detailed_screen/news_detailed_screen.dart';
-import 'package:cards_calculator/screens/news_screen/news_screen.dart';
-import 'package:cards_calculator/screens/settings_screen/settings_screen.dart';
-import 'package:cards_calculator/screens/u_screen/u_screen.dart';
+import 'package:cards_calculator/screens/hdfg/home_page.dart';
+import 'package:cards_calculator/screens/fdasdas/add_income_screen.dart';
+import 'package:cards_calculator/screens/fdasfcas/incomes_screen.dart';
+import 'package:cards_calculator/screens/jhfkjhgndgh/initial_screen.dart';
+import 'package:cards_calculator/screens/gsdfcsdasd/main_screen.dart';
+import 'package:cards_calculator/screens/fdasgfs/news_detailed_screen.dart';
+import 'package:cards_calculator/screens/hdfvdsascdc/news_screen.dart';
+import 'package:cards_calculator/screens/hdfvsdghfds/settings_screen.dart';
+import 'package:cards_calculator/screens/privact/u_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

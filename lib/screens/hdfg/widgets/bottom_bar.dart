@@ -1,4 +1,4 @@
-import 'package:cards_calculator/screens/home_page/widgets/bottom_bar_item.dart';
+import 'package:cards_calculator/screens/hdfg/widgets/bottom_bar_item.dart';
 import 'package:flutter/material.dart';
 
 class BottomBar extends StatelessWidget {

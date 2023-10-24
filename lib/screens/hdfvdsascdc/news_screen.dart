@@ -1,6 +1,6 @@
 import 'package:cards_calculator/constants.dart';
-import 'package:cards_calculator/screens/news_screen/widgets/main_new_widget.dart';
-import 'package:cards_calculator/screens/news_screen/widgets/new_item.dart';
+import 'package:cards_calculator/screens/hdfvdsascdc/widgets/main_new_widget.dart';
+import 'package:cards_calculator/screens/hdfvdsascdc/widgets/new_item.dart';
 import 'package:cards_calculator/utils/extensions.dart';
 import 'package:flutter/material.dart';
 
